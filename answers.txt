@@ -1,1 +1,2 @@
 a. Some pros of Agile development is that it has an iterative approach and constantly adds value to the customer. Some cons of Agile development is that it is hard to predict the budget and timeline of the project and can make collaboration difficult.
+b. The Scrum Master completes all the scrum related tasks, for example, creating sprints and meetings. The Product Owner sets the direction for the team and handles things such as stakeholder management.
